@@ -1,2 +1,2 @@
 ## Snowflake Smoothies
-![smoothies-app]("assets/app.png")
+![smoothies-app]("app.png")
